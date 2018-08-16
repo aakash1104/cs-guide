@@ -1,22 +1,22 @@
 # List of Topics
 
-* Classes
-	* CS Class Overview
-	* How to choose classes
-		* Passes and how they are determined
-		* Dealing with waitlists/being unable to get classes
-		* Replacement classes
-		* Doing well in classes - best practices
-	* Research
-	* Academia
-	* Industry
-		* Building your resume
-			* Feedback
-			* HH Websites and Resumes
-			* UC Davis South Hall (ICC)
-		* Getting Interviews
-		* Interview Prep/Best Habits
-		* The Offer
-		* The Internship/Job
-			* I-9
-			* Relocation
+- [ ] Classes
+	- [ ] CS Class Overview
+	- [ ] How to choose classes
+		- [ ] Passes and how they are determined
+		- [ ] Dealing with waitlists/being unable to get classes
+		- [ ] Replacement classes
+		- [ ] Doing well in classes - best practices
+	- [ ] Research
+	- [ ] Academia
+	- [ ] Industry
+		- [ ] Building your resume
+			- [ ] Feedback
+			- [ ] HH Websites and Resumes
+			- [ ] UC Davis South Hall (ICC)
+		- [ ] Getting Interviews
+		- [ ] Interview Prep/Best Habits
+		- [ ] The Offer
+		- [ ] The Internship/Job
+			- [ ] I-9
+			- [ ] Relocation
