@@ -46,6 +46,8 @@
 
 - [ ] Minorities in Tech
 
+- [ ] Scholarships
+
 - [ ] Misc.
 	- [ ] Conferences (GHC, TechCrunch, etc.)
 	- [ ] Hackathons
