@@ -26,6 +26,8 @@
 	- [ ] Graduate school and PhD programs and applications
 	- [ ] Writing your Statement of Purpose
 	- [ ] Getting your Letters of Recommendation
+	- [ ] The Integrated Master's Program
+	- [ ] M.S. or Ph. D
 
 - [ ] Industry
 	- [ ] Side/Personal Projects
