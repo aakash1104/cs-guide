@@ -14,8 +14,6 @@
 	- [ ] Advantages of taking more  Math and/or Statistics classes
 		- [ ] The most valuable math classes that make you a better computer scientist
 	- [ ] CS vs CSE (The inevitable battle)
-	- [ ] Can I get an internship as a freshman?
-		- [ ] Do's and Don'ts
 
 - [ ] Research
 	- [ ] How to get into CS related research as an undergraduate
@@ -47,6 +45,9 @@
 	- [ ] The Internship/Job
 		- [ ] I-9
 		- [ ] Relocation
+	- [ ] Can I get an internship as a freshman?
+		- [ ] Do's and Don'ts
+	- [ ] What you should be looking for 
 
 - [ ] Minorities in Tech
 
