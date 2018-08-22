@@ -84,4 +84,32 @@ for non-majors and students who have had no prior programming experience. This c
 
 ## Advantages of taking more math/stats classes
 
+- A lot of computer science is mathematics and Statistics than it is Programming.
+
+- Regardless of the specific field of CS that you might be interested in,
+	there is an equivalent class offered by either the mathematics or statistics
+	department.
+
+- Take the classes from these departments to learn these topics from a
+	different perspective. You will learn a lot more and things might make
+	more sense to you.
+
+- Some of these classes count as electives for your major too and it will
+definitely look better on your transcript.
+	- You can even petition certain classes to be counted for your electives
+	(if they are not already listed as electives)
+
+### Math Classes You Should Definitely Consider Taking
+
+| Class     		|  Title			  	| CS Related Areas 							|
+| :------------- 	| :------------ 		| :------------								|
+| MAT 108       	| Abstract Mathematics  | Logic, discrete structures				|
+| MAT 115A       	| Number Theory       	| Cryptography, Security					|
+| MAT 127A/B       	| Real Analysis      	| Probability Theory, Randomized Algorithms	|
+| MAT 133       	| Mathematical Finance  | Finance Modeling							|
+| MAT 145       	| Combinatorics		  	| Graph Theory, Algorithms, Cryptography	|
+| MAT 148       	| Discrete Mathematics  | Cryptography, Ergodic Theory, Security	|
+| MAT 167       	| Applied Lin. Algebra  | Data Science, ML/AI						|
+| MAT 168       	| Optimization       	| Data Science, ML/AI 						|
+
 ## CS vs CSE
