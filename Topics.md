@@ -50,7 +50,7 @@
 	- [ ] What you should be looking for 
 
 - [ ] Minorities in Tech
-
+- [ ] Imposter Syndrome
 - [ ] Scholarships
 
 - [ ] Misc.
