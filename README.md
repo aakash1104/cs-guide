@@ -13,4 +13,4 @@ labs, and a bunch of other things.
 
 * [Aakash Prabhu](http://aakprabhu.com)
 * [Vincent Yang](https://vincentyang.me/)
-* [Harshita Kaushal] (https://harshita-kaushal.github.io)
+* [Harshita Kaushal](https://harshita-kaushal.github.io)
