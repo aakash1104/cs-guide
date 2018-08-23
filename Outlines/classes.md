@@ -64,7 +64,66 @@ for non-majors and students who have had no prior programming experience. This c
 
 ### Passes and how they're determined
 
+- **Pass 1**: Register for classes you want to take (assuming you've met
+the pre-reqs and there are open seats).
+	- _Unit Cap_: You can only register for _17 units_ at this point in time.
+
+- **Pass 2**: Typically used for waitlisting to get into a class.
+	- _Unit Cap_: Your unit cap is extended to _19 units_ at this point.
+
+- **Open Registration**: This is a period between the end of pass 1 and the
+start of pass 2 and after the end of pass 2.
+ 	- _Unit Cap_: if between pass 1 and 2, then 17 units. If after pass 2, 19
+	units.
+
+- **Schedule Adjustment**: Register or waitlist for any class (that you've met
+the pre-reqs for). No major restriction.
+	- _Unit Cap_: extended to _28.5 units_. Doesn't mean you have to do that
+	much and go overboard.
+
+#### How Are Pass Times Determined
+
+- Almost entirely based  on the number of UC Davis and Non-exam based
+transfer units completed.
+
+- First day of passes is always reserved for student athletes and students in
+the honors program.
+
 ### Dealing with waitlists
+
+- If you want to get into a class that you really want to take but its filled
+up, _definitely waitlist_!
+
+- The higher you are on the waitlist does not imply that you won't get into the
+class.
+	- If there are a lot of people on the waitlist, it means the class has a
+	high demand.
+	- The department will first look to see if they can expand the class
+	and possibly add another section to accommodate more students.
+		- If there's another instructor teaching the course that has open seats
+		then the department _will not_ expand the class.
+	- Students _always_ drop classes.
+		- Sometimes because of the difficulty but mostly because the class
+		was probably a placeholder.
+
+- Always make sure you have enough units registered in case you don't get
+into the class you waitlisted for.
+
+- If you really think that you might not get into the class, then make sure you
+register for another class that has open seats. You could just take that class
+in the worst case.
+
+#### Major Restrictive Classes & Waitlists
+
+- Some upper division classes (mostly Math and Stats) are major restrictive
+	- Only people in that or related majors can register for the class in pass 1.
+
+- Your only option to get into the class is to waitlist.
+	- A lot of these classes are typically expanded.
+
+- Some of these classes are very popular among CS majors and the MAT/STA
+department is aware of this and do definitely try to expand classes or
+offer these classes more frequently.
 
 ### Replacement Classes
 
@@ -107,7 +166,7 @@ subfields of CS:_
 #### Offered by other departments
 
 - STA 141C
-- MAT 167 (In a sense)
+- MAT 167 (In a sense), 168
 
 ### Computer Architecture
 
