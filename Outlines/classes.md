@@ -127,6 +127,17 @@ offer these classes more frequently.
 
 ### Replacement Classes
 
+- It is completely normal to not get into a class you really wanted to take.
+	- If the demand increases, the department might offer it more frequently.
+
+- Instead try to take classes that satisfy your major requirements. If you
+have some GEs left to complete, now would be a good time to take them.
+
+- You could also take other CS courses that might have open seats and maybe
+complete on of your electives.
+
+- If you're minoring in some field, take a class that satisfies your minor.
+
 ### Doing well in classes
 
 ## CS Electives
