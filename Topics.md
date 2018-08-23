@@ -5,8 +5,8 @@
 		- [x] What to expect in CS classes as an incoming Freshman/Transfer
 		- [x] Effort required in typical CS classes.
 	- [ ] How to choose classes
-		- [ ] Passes and how they are determined
-		- [ ] Dealing with waitlists/being unable to get classes
+		- [x] Passes and how they are determined
+		- [x] Dealing with waitlists/being unable to get classes
 		- [ ] Replacement classes
 		- [ ] Doing well in classes - best practices
 	- [ ] Choosing the right CS Electives
