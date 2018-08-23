@@ -1,10 +1,10 @@
 # List of Topics
 
-- [ ] Classes
+- [x] Classes
 	- [x] CS Class Overview
 		- [x] What to expect in CS classes as an incoming Freshman/Transfer
 		- [x] Effort required in typical CS classes.
-	- [ ] How to choose classes
+	- [x] How to choose classes
 		- [x] Passes and how they are determined
 		- [x] Dealing with waitlists/being unable to get classes
 		- [x] Replacement classes
