@@ -1,9 +1,9 @@
 # List of Topics
 
 - [ ] Classes
-	- [ ] CS Class Overview
-		- [ ] What to expect in CS classes as an incoming Freshman/Transfer
-		- [ ] Effort required in typical CS classes.
+	- [x] CS Class Overview
+		- [x] What to expect in CS classes as an incoming Freshman/Transfer
+		- [x] Effort required in typical CS classes.
 	- [ ] How to choose classes
 		- [ ] Passes and how they are determined
 		- [ ] Dealing with waitlists/being unable to get classes
@@ -11,8 +11,8 @@
 		- [ ] Doing well in classes - best practices
 	- [ ] Choosing the right CS Electives
 	- [ ] Declaring a minor and/or a double major
-	- [ ] Advantages of taking more  Math and/or Statistics classes
-		- [ ] The most valuable math classes that make you a better computer scientist
+	- [x] Advantages of taking more  Math and/or Statistics classes
+		- [x] The most valuable math classes that make you a better computer scientist
 	- [ ] CS vs CSE (The inevitable battle)
 
 - [ ] Research
@@ -47,7 +47,7 @@
 		- [ ] Relocation
 	- [ ] Can I get an internship as a freshman?
 		- [ ] Do's and Don'ts
-	- [ ] What you should be looking for 
+	- [ ] What you should be looking for
 
 - [ ] Minorities in Tech
 - [ ] Imposter Syndrome

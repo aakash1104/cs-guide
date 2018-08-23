@@ -72,13 +72,80 @@ for non-majors and students who have had no prior programming experience. This c
 
 ## CS Electives
 
+- If you're a CS major, then you have a lot more freedom with electives and
+more room to choose your electives according to what you like.
+
+- If you're CSE, then you have 4 electives so choose them wisely and make it
+count.
+	- Of course, there's no harm in doing more than 4 electives.
+
+- Typically electives are classes in a specific area of Computer Science.
+	- Take those classes that you would ideally want to specialize in.
+	- If you are interested in a specific sub-field of CS, take a class based
+	on that elective to decide if you actually like it.
+
+_Here are some classes that the department offers based on certain
+subfields of CS:_
+
 ### Data Science
+
+#### Offered by the CS Department
+
+- ECS 132, 171, 174
+
+#### Offered by other departments
+
+- STA 106, 108, 131A, 131B, 141A, 141B
+- MAT 133, 135A, 135B, 165
+
 ### AI and Machine Learning
+
+#### Offered by the CS Department
+
+- ECS 170, 171, 174, 189 (Depending on the quarter)
+
+#### Offered by other departments
+
+- STA 141C
+- MAT 167 (In a sense)
+
 ### Computer Architecture
+
+#### Offered by the CS Department
+
+- ECS 154A, 154B, 158
+
+#### Offered by other departments
+
+- EEC 170, 180A, 180B
+
 ### Algorithms, Complexity Theory, and Theoretical CS
+
+#### Offered by the CS Department
+
+- ECS 120, 122A, 122B, 127, 220, 222A, 225
+
+#### Offered by other departments
+
+- MAT 115A, 127A, 127B, 145, 146, 148.
+
 ### Operating Systems
+
+- ECS 150, 158, 251
+
 ### Computer Security
+
+- ECS 153
+
 ### Computational Biology
+
+#### Offered by the CS Department
+
+- ECS 124, 129
+
+#### Offered by other departments
+
+- MAT 124
 
 ## Declaring a minor and/or a double major
 
