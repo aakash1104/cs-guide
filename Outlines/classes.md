@@ -62,6 +62,42 @@ for non-majors and students who have had no prior programming experience. This c
 
 ## How to Choose classes
 
+- Choose classes wisely. Sometimes even taking 3 classes can be stressful
+depending on the classes you take.
+	- For example: Taking ECS 150, 175, and 160 in one quarter might be super
+	stressful since they are all programming intensive.
+
+- Take classes that are a mix of programming and theory classes.
+	- If you plan on taking only CS classes in a quarter, consider something
+	like this:
+	 ECS 120/122A, ECS 140, ECS 154A.
+		- There's one theory class, one programming class, and a class
+			that is in between the two.
+
+- Ideally try to take about 15-16 units a quarter with a mix of CS and other
+classes.
+	- Try not to do more than 3 CS classes in a quarter. It can get
+		quite strenuous.
+		- Ideally, shoot for 2 CS classes as that creates a perfect
+			balance.
+	- Adding a GE in your schedule will keep you sane during the quarter.
+
+- If you want to take more units (more than 20), then choose your classes
+wisely.
+	- If you're taking 5-6 classes in a quarter, then:
+		- Take a relatively easy GE (or even two) class.
+		- Try to take 1 (ideally) or a maximum of two CS classes that are programming
+		heavy.
+		- Take a theory related CS class (or something that has a lighter load than a
+		typical CS class)
+		- If you're not taking ECS 188, then you can take a writing class
+		(UWP)
+		- Take a math class to fulfill your math requirements.
+
+	- Taking a physics class, a theory CS class, and a math class is just
+	an overkill on math and might make you crazy if you hate math.
+
+
 ### Passes and how they're determined
 
 - **Pass 1**: Register for classes you want to take (assuming you've met
@@ -139,6 +175,40 @@ complete on of your electives.
 - If you're minoring in some field, take a class that satisfies your minor.
 
 ### Doing well in classes
+
+- Attend lectures (duh). Not everyone attends lecture. From experience, about
+30-40% of the class won't attend lectures. Sometimes, only about 20% show up!
+	- Go to lecture, and ask questions. instructors will give you more attention.
+	- More importantly, even if you know the material, you'll learn something new.
+	- You can have a 1-1 interaction with your professor.
+
+- Go to office hours! Textbooks are not too helpful most of the times. If you
+have questions, go to OH and get your questions cleared.
+	- Again, not everyone attends OH, so you have more 1-1 time with your
+	instructor and can get questions cleared faster.
+	- TA's OH are actually helpful despite what a lot of people think.
+		- Not a lot of people know that most TA's schedule their OH
+		depending on when exams and OH are due.
+		- They will help you out with homework (and sometimes help you more
+			on a homework assignment than a professor!)
+
+- If your class uses piazza for discussions, ask questions! You can even
+post anonymously if you want! It gets your questions cleared a lot faster
+and sometimes the student answers are top notch!
+
+- Start programming assignments early regardless of the difficulty.
+There are programs that will take you about 20-30 hours to complete.
+Start early and make sure you get questions cleared early!
+
+- Help out fellow classmates :)
+	- Again, not a lot of people know this but by helping someone who is
+	struggling with a concept only makes you learn better!
+
+- Not everyone has time to read ahead of class and go to lecture. In fact,
+almost no one would do this for upper division classes at least. However, try
+to read/re-read the concepts that you learned in class at the end of the day.
+It will definitely prove to be useful since you don't need to waste time
+refreshing your memory while studying for an exam.
 
 ## CS Electives
 
@@ -219,6 +289,20 @@ subfields of CS:_
 
 ## Declaring a minor and/or a double major
 
+- CS is a highly impacted major and there are a lot of students in the major.
+Minoring in CS might be a pretty difficult task since you pretty much
+need to take all the lower division classes and take 5 upper division
+courses. In a sense, it is not too far away from getting a major in CS.
+
+- If you're a minor in CS, you will not get the opportunity to register for
+CS classes in pass 1 and you have to waitlist.
+
+- If you've completed the important lower divisions (OOP, Data Structures,
+	Discrete Math), either the first of the chem or physics series, and
+	a few math classes, you should be allowed to declare a major in CS.
+		- Similar requirements for CSE (some might differ).
+		- If you want to declare a CS major, your GPA should be above 3.
+
 ## Advantages of taking more math/stats classes
 
 - A lot of computer science is mathematics and Statistics than it is Programming.
@@ -250,3 +334,23 @@ definitely look better on your transcript.
 | MAT 168       	| Optimization       	| Data Science, ML/AI 						|
 
 ## CS vs CSE
+
+- CSE as a major focuses roughly on 80% CS and about 20% in EE. If you're
+interested in hardware and working with embedded systems, then you should
+definitely be a CSE major.
+
+- CSE has a lot of core requirements to complete. There are 3 EE classes that
+you must take, the entire physics 9 series and a math class on differential
+equations. All of these classes are considered to be core engineering classes.
+
+- There's only room for 4 electives that you can take. Some might see this as
+not enough room to try out other classes because of the heavy course load.
+
+- If you're interested in any other specific subfield of CS, you should
+probably be a CS major since you have more flexibility to take classes that
+you might be interested in. Additionally, it is a lot more easier to double
+major or minor in another field!
+
+- _If you know that you want to be involved in software development, the
+job opportunities are about the same regardless of choosing CS or CSE as your
+major_

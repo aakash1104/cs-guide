@@ -8,12 +8,12 @@
 		- [x] Passes and how they are determined
 		- [x] Dealing with waitlists/being unable to get classes
 		- [x] Replacement classes
-		- [ ] Doing well in classes - best practices
+		- [x] Doing well in classes - best practices
 	- [x] Choosing the right CS Electives
-	- [ ] Declaring a minor and/or a double major
+	- [x] Declaring a minor and/or a double major
 	- [x] Advantages of taking more  Math and/or Statistics classes
 		- [x] The most valuable math classes that make you a better computer scientist
-	- [ ] CS vs CSE (The inevitable battle)
+	- [x] CS vs CSE (The inevitable battle)
 
 - [ ] Research
 	- [ ] How to get into CS related research as an undergraduate
