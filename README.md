@@ -1,4 +1,4 @@
-# Unofficial UC Davis Computer Science Guide
+# Unofficial UC Davis Computer Science Guide :pencil2::blue_book:
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![Status](https://img.shields.io/badge/Status-Under%20Development-orange.svg)
@@ -14,3 +14,18 @@ labs, and a bunch of other things.
 * [Aakash Prabhu](http://aakprabhu.com)
 * [Vincent Yang](https://vincentyang.me/)
 * [Harshita Kaushal](https://harshita-kaushal.github.io)
+
+
+#### Structure
+
+```
+.
+├── LICENSE
+├── Outlines
+│   ├── classes.md
+│   ├── industry.md
+│   └── research.md
+├── README.md
+├── TODO.md
+└── Topics.md
+```
