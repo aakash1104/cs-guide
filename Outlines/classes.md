@@ -268,6 +268,7 @@ subfields of CS:_
 #### Offered by other departments
 
 - MAT 115A, 127A, 127B, 145, 146, 148.
+- PHI 12, 112, 131
 
 ### Operating Systems
 
