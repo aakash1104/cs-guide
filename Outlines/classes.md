@@ -196,6 +196,15 @@ have questions, go to OH and get your questions cleared.
 post anonymously if you want! It gets your questions cleared a lot faster
 and sometimes the student answers are top notch!
 
+- Seek help from tutors at Kemper 75! Tutoring is (and will always be) free for
+everyone. Tutoring at Kemper 75 takes place Monday through Friday.
+	- These tutors have taken the class at Davis previously and have done well.
+	- Simply write your name on the whiteboard or simply yell out the name
+	of the tutor if there are not a lot of people.
+	- Tutors also host review sessions for a lot of ECS classes.
+	- Tutoring is offered for all lower division classes and an increasing
+	number of upper division cs classes with every passing quarter.
+
 - Start programming assignments early regardless of the difficulty.
 There are programs that will take you about 20-30 hours to complete.
 Start early and make sure you get questions cleared early!
