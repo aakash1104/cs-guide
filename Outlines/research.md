@@ -30,10 +30,10 @@ passionate and interested in working with them.
 
 - Don't display yourself or your profile as something like:
 
-> "I'm a sophomore interested in working with you. I have 4.0 GPA and an A+
+	> "I'm a sophomore interested in working with you. I have 4.0 GPA and an A+
 in data structures. I think I'm skilled enough to work with you"
 
-That's a huge red flag! Please don't do that.
+	That's a huge red flag! Please don't do that.
 
 - Talk to the professor about your goals and why you might be interested in
 research.
@@ -47,4 +47,31 @@ a professor in the department (or maybe few professors from the math department)
 
 ## "Side"/Academic projects
 
+- Personal projects from an academia standpoint might be different than your
+typical side projects.
+	- You won't be making Alexa skills to remind you about classes and that
+	sort of stuff.
+
+- The easiest way to have a personal academic project is to pick some
+interesting concept(s) or topic(s) and dive deeper into it.
+	- You could study about related topics or try to determine the relation
+	between two similar topics.
+
+- Sometimes, a professor would love to work with you on a project that you
+find interesting (if they have the time of course).
+
 ## Presenting @ URC
+
+- If you are involved in research with a professor (or multiple people),
+or even if you're doing research by yourself, you can present your
+research in the undergrad research conference.
+
+- You don't need to have a "finished" product to participate. You can
+even talk about what you did, and what you plan to do in the future.
+	- It is completely okay if you don't have a product to give a demo
+	to your audience.
+
+- You can even get a transcript notation indicating that you've done research
+and get units for this!
+
+- Read more [here](https://urc.ucdavis.edu/conference/).
