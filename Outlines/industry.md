@@ -26,8 +26,8 @@ your opportunities. This is a good opportunity to learn (at very minimum) some f
 cut you off automatically if you don't hit a certain threshold. Once you have technical experience or if you're a 3rd or 4th year, remove irrelevant work experiences (cashier, waitress, etc). Put in side projects to fill the space if you don't have enough work experience. Never go over 1 page.  
 
 ### Feedback
-
-### HH Websites and Resumes
+You can get feedback from friends and faculty, or try reaching out to people in the Davis CS club page, or any other professional connections you have. However, the vast majority of companies will not give feedback as it makes them liable to lawsuits. A good way to practice interviews/improving your resume is to 
+practice whiteboarding in front of your friends. Explaining these concepts is significantly different from simply understanding them. Both communication skills as well as technical knowledge are necessary for the job. 
 
 ### UC Davis South Hall (ICC)
 * You can go to the ICC to get some resume review or career help. I've found that they have a nice list of listservs, so sign up for the relevant ones. 
@@ -40,20 +40,19 @@ the interviewer talks, listen. They're talking for a reason; interrupting them o
 * Try to do a set number of questions a day and simply choose hard questions that you can do. Don't spend over 1.5h on a question; just look at the answer, understand it, and move on. Come back to it in a week when you've forgotten the answer and re-solve. 
 
 ## During the Interview
+Interviews typically have many mostly unrelated things to do, so here is a list. Most onsite interviews will be in a single room with interviewers coming in and out, or they will move you from room to room.
+* Introduce yourself at the start of the interview
+* Understand the question well before you begin answering. It is easier to answer correctly but slowly rather than backtrack.
+* Ask questions at the end of the interview. This is an opportunity for you to interview the company as well.
+* This is your opportunity to figure out if the company has interesting, applicable work for you with growth opportunities.
 
 ### How to present yourself
 Interviewing is an art, and it will also be a life-long challenge. There are so many traits that you're being assessed for, i.e being personable, creative, patience, clarity in expression, but thinking about this will just induce nervousness. The best interviews tend to happen when you authentically represent yourself. This is cliche, but the best interviews are a conversation. Interviewers are able to sniff out lack of authenicity or attempts to make oneself appear better than you actually are. Passion is able to show, so make an active effort to discuss projects/experiences that you thoroughly enjoyed. 
 Interviewers are people, too. 
 
-### What not to do
-Don't ramble. Make sure that there's a back and forth. 
-
-### Tips and tricks
 ## The Offer
-
-## The Internship/Job
-
-### I-9
-
-### Relocation
+* After you have finished all the interviews, they will come back with a result. If your result is positive, congratulations! You're almost done. At this point, the recruiter will typically give a verbal offer -- letting you know that 
+they plan on extending you one. This call or email typically tells you about the salary, benefits, team, etc. However, keep in mind that this does **NOT** mean you actually have an offer. Nothing matters until you 
+have a physical (or DocuSign) offer in hand. At this point, you'll have some amount of time to accept the offer. Typically it is nice of a company to give you a while to decide: in theory, they should want you to make the
+best professional choice, regardless of whether or not it is them. However, this is not true, and many companies will purposely give you short deadlines to pressure you into accepting. 
 
