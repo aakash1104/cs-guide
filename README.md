@@ -12,7 +12,7 @@ labs, and a bunch of other things.
 ### Authors
 
 * [Aakash Prabhu](http://aakprabhu.com)
-* [Vincent Yang](https://vincentyang.me/)
+* [Vincent Yang](https://yangvincent.com)
 * [Harshita Kaushal](https://harshita-kaushal.github.io)
 
 
