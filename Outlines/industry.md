@@ -42,11 +42,13 @@ the interviewer talks, listen. They're talking for a reason; interrupting them o
 ## During the Interview
 
 ### How to present yourself
+Interviewing is an art, and it will also be a life-long challenge. There are so many traits that you're being assessed for, i.e being personable, creative, patience, clarity in expression, but thinking about this will just induce nervousness. The best interviews tend to happen when you authentically represent yourself. This is cliche, but the best interviews are a conversation. Interviewers are able to sniff out lack of authenicity or attempts to make oneself appear better than you actually are. Passion is able to show, so make an active effort to discuss projects/experiences that you thoroughly enjoyed. 
+Interviewers are people, too. 
 
 ### What not to do
+Don't ramble. Make sure that there's a back and forth. 
 
 ### Tips and tricks
-
 ## The Offer
 
 ## The Internship/Job
