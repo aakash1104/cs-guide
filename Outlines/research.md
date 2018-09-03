@@ -22,7 +22,8 @@ to know your professor. You can even ask them questions about research,
 and they would be more than delighted to talk about their work!
 	- Nothing impresses a professor more than knowing that you're interested
 	in their work!
-		- Of course, don't fake it just to "do research and enhance your profile"
+		- Of course, don't fake it just to "do research and enhance your
+		profile"
 
 - You don't have to read all of their papers and solved every single question
 that they pose in their papers. You just have to show them that you're
@@ -43,7 +44,60 @@ research.
 - If you're interested in core CS research, then focus of doing research with
 a professor in the department (or maybe few professors from the math department)
 
+### Research in CS for freshmen and sophomores
+
+- There are professors within the CS department that do take in freshmen
+and sophomores for research projects.
+
+- As a freshman or a sophomore, you may not have done extensive coursework
+or taken courses that require you to apply concepts from other classes,
+but as long as you do well in them and are a fast learner,
+you can most certainly impress the faculty and have them consider you for a
+project.
+
+- The most important thing to do is to exhibit your exuberance and
+passion for learning.
+
+- Be eager to learn and display that to your professor, and you'll be a
+great candidate for research.
+
+- Research is more learning and studying than you may think.
+	> If we knew what it is we were doing, it would not be called research,
+	would it?	~Albert Einstein
+
+- Most importantly: don't hesitate to ask a faculty member for a research
+position. If you like their work, just email them and schedule a meeting.
+Talk to them about how you're interested in working with them and show
+them that you are excited to learn more about their field.
+	- It is completely okay to be rejected for a research position.
+
+	- Don't worry too much about it. If you're still interested,
+	talk to them after you've taken a few classes and tell them that
+	you're still interested.
+
+- You can also check the Undergraduate Research Center located in the
+Student Community Center for more research opportunities.
+
 ## Applying for positions in research labs
+
+- Applying for internship or full time positions in research labs is slightly
+different than applying for any other tech job.
+
+- For instance, research labs have a GPA requirement (and they make no
+exceptions). Some research labs have a minimum GPA of 3.0 whereas some
+prestigious research labs have a GPA limit of 3.5 and above.
+
+- Technical interviews are more focussed on what is on your resume.
+For example: If you have mention in your resume that you have a side project
+built in _Unity_, then expect to be quizzed on some intricate details of
+Unity.
+
+- Research labs might also ask for professional references so make sure,
+you have at least 2 professional references who can talk highly about you
+and your work ethic.
+
+- A fair warning: Positions for research labs are very competitive! So
+be sure to bring out your best.
 
 ## "Side"/Academic projects
 
