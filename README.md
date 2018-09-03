@@ -24,6 +24,7 @@ labs, and a bunch of other things.
 ├── Outlines
 │   ├── classes.md
 │   ├── industry.md
+│   ├── misc.md
 │   ├── research.md
 │   └── transfers.md
 ├── README.md
