@@ -9,7 +9,7 @@ choosing the right classes, doing well in them, landing internships and full
 time jobs, getting research opportunities with professors and with research
 labs, and a bunch of other things.
 
-### Authors
+### Contributors
 
 * [Aakash Prabhu](http://aakprabhu.com)
 * [Vincent Yang](https://vincentyang.me/)
