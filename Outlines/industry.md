@@ -3,30 +3,39 @@
 # Industry vs. Academia
 
 # Getting Interviews
-* There are three ways to get interviews. The first and best way is to leverage your network to get a referral or a shoe in the door. This can come in many forms -- family friends, friends, professors, asking people on LinkedIn out for coffee to pick their brain and making a good impression, etc. 
-The second way is to create a really good, company-specific project and show it to them. Send it to their CEO or someone high up who'll understand the impact of your project. A project of this size may take 1-2 days, but basically guarantees your interview. Keeping in mind that
-you'll maybe apply to 10-20 places in two days in that same time and most people only get around 1-2% reply rates, and this option is actually quite good. You'll also simultaneously be building your portfolio and skill set. Finally, the third and worst way is to "spray and pray". Here, you apply
+**There are three ways to get interviews.** 
+1. The first and best way is to leverage your network to get a referral or a shoe in the door. This can come in many forms -- family friends, friends, professors, asking people on LinkedIn out for coffee to pick their brain and making a good impression, etc. 
+2. The second way is to create a really good, company-specific project and show it to them. Send it to their CEO or someone high up who'll understand the impact of your project. A project of this size may take 1-2 days, but basically guarantees your interview. Keeping in mind that
+you'll maybe apply to 10-20 places in two days in that same time and most people only get around 1-2% reply rates, and this option is actually quite good. You'll also simultaneously be building your portfolio and skill set. 
+3. Finally, the third and worst way is to "spray and pray". Here, you apply
 to as many companies as you can and it is truly a number's game. Keep in mind here that your odd's of getting an interview are additive, so you literally increase your odds of getting an interview with every application. Some good places to start looking for these are
-j-delaney's list of easy applications, intern.supply, or hackernews's monthly job postings thread. 
+[j-delaney's list](https://github.com/j-delaney/easy-application) of easy applications, [intern.supply](https://intern.supply), or [hackernews's monthly job postings thread](https://news.ycombinator.com/item?id=17442187). 
 
 ## Side/Personal Projects
 * You do side and personal projects for personal interest and to build up your experience/attractiveness to companies. Do projects that you find interesting that actually go past your skill set so you'll always be learning something new. Often times, you'll be pleasantly surprised at how simply
-something makes sense. On top of this, I highly recommend pitching your ideas to a professor or running them by a startup incubator. Perhaps there are other opportunities there. Professors have strong networks and great experience for you to learn from, and you never know if you'll have the chance
-to publish a paper. Similarly, running a startup is a unique, highly sought-after experience by companies. If you don't get an internship, don't fret. Do an extremely significant project. A friend of a friend wanted to get into the game development industry and applied everywhere, but got no responses.
-That summer, he developed a game engine. The subsequent summer, all of the biggest companies in game dev wanted him far more than people with typical internships. Make your time matter. 
+something makes sense. 
+* On top of this, I highly recommend pitching your ideas to a professor or running them by a startup incubator. Perhaps there are other opportunities there. Professors have strong networks and great experience for you to learn from, and you never know if you'll have the chance
+to publish a paper. 
+* Similarly, running a startup is a unique, highly sought-after experience by companies. If you don't get an internship, don't fret. Do an extremely significant project. A friend of a friend wanted to get into the game development industry and applied everywhere, but got no responses.
+That summer, he developed a game engine. The subsequent summer, all of the biggest companies in game dev wanted him far more than people with typical internships. **Make your time matter.**
 
 ## Building your portfolio website
-* Your portfolio website should be self-made (unless you are absolutely sure you will never have to understand how web pages work), and should be an accurate image of your capabilities and interests. Don't put vulgar or inappropriate content here; employers will and DO look you up. Don't let this mess up
+* Your portfolio website should be self-made (unless you are absolutely sure you will never have to understand how web pages work), and should be an accurate image of your capabilities and interests. 
+* Don't put vulgar or inappropriate content here; employers will and **DO** look you up. Don't let this mess up
 your opportunities. This is a good opportunity to learn (at very minimum) some front-end like HTML, CSS, SASS, or even something more advanced like Vue, React, or Angular. Similarly, you can also add backend features. You can talk about all of these during the interview and yes, relevant questions come up often.
 
 ## Building your resume
-* Use a one-column resume (read: not deedy) that's pdf parsable. The vast majority of companies simply use ATS's with resume parsing so if your resume doesn't parse well, good luck getting an interview. Small companies (100-200 ppl) typically get 200-400 applications on an entry level/internship role on just
-*the first day*. Out of those, they'll probably interview 30 and pick up 2. Apply a week later and your resume will never even see the light of day. Be early to apply; turn on notifications and trackers. In your resume, frame everything in the form 
-<verb> x by using <y> to achieve <z> where z is a quantifiable metric. This helps the company accurately (or more accurately) understand the impact of your work. Have a list of skills near the top as well as your GPA if over 3.0. If your GPA isn't over 3.0, prioritize that heavily; many companies will simply
-cut you off automatically if you don't hit a certain threshold. Once you have technical experience or if you're a 3rd or 4th year, remove irrelevant work experiences (cashier, waitress, etc). Put in side projects to fill the space if you don't have enough work experience. Never go over 1 page.  
+* Use a one-column resume **(read: not deedy)** that's pdf parsable. The vast majority of companies simply use [ATS's](https://www.rchilli.com/blog/resume-parser-and-ats-lets-be-friends-again) with resume parsing so if your resume doesn't parse well, good luck getting an interview. 
+* Small companies (100-200 ppl) typically get 200-400 applications on an entry level/internship role on just
+*the first day*. Out of those, they'll probably interview 30 and pick up 2. Apply a week later and your resume will never even see the light of day. 
+* Be early to apply; turn on notifications and trackers. In your resume, frame everything in the form 
+<verb> x by using <y> to achieve <z> where z is a quantifiable metric. This helps the company accurately (or more accurately) understand the impact of your work. 
+* Have a list of skills near the top as well as your GPA if over 3.0. If your GPA isn't over 3.0, prioritize that heavily; many companies will simply
+cut you off automatically if you don't hit a certain threshold. 
+* Once you have technical experience or if you're a 3rd or 4th year, remove irrelevant work experiences (cashier, waitress, etc). Put in side projects to fill the space if you don't have enough work experience. **Never go over 1 page.**  
 
 ### Feedback
-You can get feedback from friends and faculty, or try reaching out to people in the Davis CS club page, or any other professional connections you have. However, the vast majority of companies will not give feedback as it makes them liable to lawsuits. A good way to practice interviews/improving your resume is to 
+You can get feedback from friends and faculty, or try reaching out to people in the [Davis CS club page](https://www.facebook.com/daviscsclub/), or any other professional connections you have. However, the vast majority of companies will not give feedback as it makes them liable to lawsuits. A good way to practice interviews/improving your resume is to 
 practice whiteboarding in front of your friends. Explaining these concepts is significantly different from simply understanding them. Both communication skills as well as technical knowledge are necessary for the job. 
 
 ### UC Davis South Hall (ICC)
@@ -53,6 +62,7 @@ Interviewers are people, too.
 ## The Offer
 * After you have finished all the interviews, they will come back with a result. If your result is positive, congratulations! You're almost done. At this point, the recruiter will typically give a verbal offer -- letting you know that 
 they plan on extending you one. This call or email typically tells you about the salary, benefits, team, etc. However, keep in mind that this does **NOT** mean you actually have an offer. Nothing matters until you 
-have a physical (or DocuSign) offer in hand. At this point, you'll have some amount of time to accept the offer. Typically it is nice of a company to give you a while to decide: in theory, they should want you to make the
+have a physical (or DocuSign) offer in hand. At this point, you'll have some amount of time to accept the offer. 
+* Typically it is nice of a company to give you a while to decide: in theory, they should want you to make the
 best professional choice, regardless of whether or not it is them. However, this is not true, and many companies will purposely give you short deadlines to pressure you into accepting. 
 
