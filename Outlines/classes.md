@@ -364,3 +364,22 @@ major or minor in another field!
 - _If you know that you want to be involved in software development, the
 job opportunities are about the same regardless of choosing CS or CSE as your
 major_
+
+# Required Course Differences
+
+Those in the CSE major will have electrical engineering courses and more required CS classes.
+
+| Class			| Title			|
+| :-------------	| :-------------	|
+| PHY 9A		| Classical Physics	|
+| PHY 9B		| Classical Physics	|
+| PHY 9C		| Classical Physics	|
+| PHY 9D		| Modern Physics	|
+| ENG 17		| Circuits 1		|
+| EEC 100		| Circuits 2		|
+| EEC 172		| Embedded Systems	|
+| ECS 140A		| Programming languages	|
+| ECS 152		| Networks		|
+| ECS 154B		| Computer Architecture	|
+| ECS 160		| Software Engineering	|
+| ECS 193A/B		| Senior Design		|
