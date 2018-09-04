@@ -16,6 +16,7 @@ labs, and a bunch of other things.
 * [Harshita Kaushal](https://harshita-kaushal.github.io)
 * [Bryan Ngo](https://bryngo.me)
 * [Henry Le](https://github.com/henrwx)
+* [Sam Lee](samchristopherlee.com)
 
 #### Structure
 
