@@ -259,6 +259,13 @@
 - If you're interested in any other specific subfield of CS, you should probably be a CS major since you have more flexibility to take classes that you might be interested in. Additionally, it is a lot more easier to double major or minor in another field!
 - If you know that you want to be involved in software development, the job opportunities are about the same regardless of choosing CS or CSE as your major.
 
+- Quote about jobs in the future from Hiroshi Lockheimer, Google SVP of Engineering (responsible for Google’s efforts around the Chrome and Android operating systems and the Google Play store):
+
+"The intersection of hardware and software is really important. I think that people will always interact with things. 	So people with the skills to [control the interface between software and hardware] will be in high demand. It’s a broad set of skills, by the way. It’s software engineering, electrical engineering, ergonomics, industrial design, materials, mechanical engineering, batteries. I think there will be even more gadgets in the future that do different kinds of things we haven’t even imagined. Building those things will require this diverse set of skills.”
+
+
+
+
 ***CSE Class Differences***
 
 - In comparison to CS majors, CSE majors have required `EEC`, `ENG`, `PHY`, and additional `ECS` classes.
