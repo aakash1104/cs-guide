@@ -16,7 +16,7 @@ labs, and a bunch of other things.
 * [Harshita Kaushal](https://harshita-kaushal.github.io)
 * [Bryan Ngo](https://bryngo.me)
 * [Henry Le](https://github.com/henrwx)
-* [Sam Lee](samchristopherlee.com)
+* [Sam Lee](http://samchristopherlee.com)
 
 #### Structure
 
@@ -25,11 +25,11 @@ labs, and a bunch of other things.
 ├── LICENSE
 ├── Outlines
 │   ├── classes.md
+│   ├── forTheWomen.md
 │   ├── industry.md
 │   ├── misc.md
 │   ├── research.md
 │   └── transfers.md
 ├── README.md
-├── TODO.md
 └── Topics.md
 ```
