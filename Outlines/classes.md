@@ -167,7 +167,7 @@
 ***Pass Times***
 
 - *Pass Times* are determined entirely on the number of (1) UC Davis and (2) non-exam transfer units completed.
-- The first day of passes are always reserved for students that are athletes or in the honors program. 
+- The first day of passes are always reserved for students that are athletes or in the honors program.
 
 *Pass 1*
 
@@ -246,7 +246,9 @@
 ### Double Major and Minor ###
 
 - CS is a highly impacted major and there are a lot of students in the major. Minoring in CS might be a pretty difficult task since you pretty much need to take all the lower division classes and take 5 upper division courses. In a sense, it is not too far away from getting a major in CS.
+
 - If you're a minor in CS, you will not get the opportunity to register for CS classes in pass 1 and you have to waitlist.
+
 - If you've completed the important lower divisions (OOP, Data Structures, Discrete Math), either the first of the chem or physics series, and a few math classes, you should be allowed to declare a major in CS.
 	- Similar requirements for CSE (some might differ).
 	- If you want to declare a CS major, your GPA should be above 3.
@@ -254,14 +256,18 @@
 ### CS versus CSE ###
 
 - CSE as a major focuses roughly on 80% CS and about 20% in EE. If you're interested in hardware and working with embedded systems, then you should definitely be a CSE major.
+
 - CSE has a lot of core requirements to complete. There are 3 EE classes that you must take, the entire physics 9 series and a math class on differential equations. All of these classes are considered to be core engineering classes.
+
 - There's only room for 4 electives that you can take. Some might see this as not enough room to try out other classes because of the heavy course load.
+
 - If you're interested in any other specific subfield of CS, you should probably be a CS major since you have more flexibility to take classes that you might be interested in. Additionally, it is a lot more easier to double major or minor in another field!
+
 - If you know that you want to be involved in software development, the job opportunities are about the same regardless of choosing CS or CSE as your major.
 
 - Quote about jobs in the future from Hiroshi Lockheimer, Google SVP of Engineering (responsible for Google’s efforts around the Chrome and Android operating systems and the Google Play store):
 
-"The intersection of hardware and software is really important. I think that people will always interact with things. 	So people with the skills to [control the interface between software and hardware] will be in high demand. It’s a broad set of skills, by the way. It’s software engineering, electrical engineering, ergonomics, industrial design, materials, mechanical engineering, batteries. I think there will be even more gadgets in the future that do different kinds of things we haven’t even imagined. Building those things will require this diverse set of skills.”
+	> The intersection of hardware and software is really important. I think that people will always interact with things. So people with the skills to [control the interface between software and hardware] will be in high demand. It’s a broad set of skills, by the way. It’s software engineering, electrical engineering, ergonomics, industrial design, materials, mechanical engineering, batteries. I think there will be even more gadgets in the future that do different kinds of things we haven’t even imagined. Building those things will require this diverse set of skills.
 
 
 
