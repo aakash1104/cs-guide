@@ -9,12 +9,14 @@ choosing the right classes, doing well in them, landing internships and full
 time jobs, getting research opportunities with professors and with research
 labs, and a bunch of other things.
 
-### Authors
+### Contributors
 
 * [Aakash Prabhu](http://aakprabhu.com)
 * [Vincent Yang](https://yangvincent.com)
 * [Harshita Kaushal](https://harshita-kaushal.github.io)
-
+* [Bryan Ngo](https://bryngo.me)
+* [Henry Le](https://github.com/henrwx)
+* [Sam Lee](http://samchristopherlee.com)
 
 #### Structure
 
@@ -23,10 +25,11 @@ labs, and a bunch of other things.
 ├── LICENSE
 ├── Outlines
 │   ├── classes.md
+│   ├── forTheWomen.md
 │   ├── industry.md
+│   ├── misc.md
 │   ├── research.md
 │   └── transfers.md
 ├── README.md
-├── TODO.md
 └── Topics.md
 ```

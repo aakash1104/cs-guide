@@ -15,11 +15,11 @@
 		- [x] The most valuable math classes that make you a better computer scientist
 	- [x] CS vs CSE (The inevitable battle)
 
-- [ ] Research
-	- [ ] How to get into CS related research as an undergraduate
-	- [ ] Applying for positions in research labs
-	- [ ] "Side" Projects from the research perspective.
-	- [ ] Presenting at the Undergraduate Research Conference
+- [x] Research
+	- [x] How to get into CS related research as an undergraduate
+	- [x] Applying for positions in research labs
+	- [x] "Side" Projects from the research perspective.
+	- [x] Presenting at the Undergraduate Research Conference
 
 - [ ] Academia
 	- [ ] Building your Academic portfolio website!
