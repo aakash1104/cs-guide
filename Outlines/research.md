@@ -2,7 +2,7 @@
 
 ## Research in CS for undergrads
 
-- Davis is primarily a research based institute, and undergrad research is
+- Davis (and all UC's) is primarily a research based institute, and undergrad research is
 highly encouraged.
 
 - If you're interested in doing research in a CS related field, there are tons
