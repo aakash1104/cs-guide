@@ -21,7 +21,6 @@ labs, and a bunch of other things.
 #### Structure
 
 ```
-.
 ├── LICENSE
 ├── Outlines
 │   ├── classes.md
