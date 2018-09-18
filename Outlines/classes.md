@@ -151,16 +151,16 @@
 
 ***MAT Classes To Consider***
 
-| CLASS		| TITLE					| CS RELATED AREAS                          |
+| CLASS		| TITLE			| CS RELATED AREAS                          |
 | :---------	| :-------------------	| :---------------------------------------- |
 | `MAT108`	| Abstract Mathematics	| Discrete Structures, Logic                |
-| `MAT115A`	| Number Theory			| Cryptography, Security                    |
-| `MAT127A/B`	| Real Analysis			| Probability Theory, Randomized Algorithms |
+| `MAT115A`	| Number Theory		| Cryptography, Security                    |
+| `MAT127A/B`	| Real Analysis		| Probability Theory, Randomized Algorithms |
 | `MAT133`	| Mathematical Finance	| Finance Modeling                          |
-| `MAT145`	| Combinatorics			| Algorithms, Cryptography, Graph Theory    |
+| `MAT145`	| Combinatorics		| Algorithms, Cryptography, Graph Theory    |
 | `MAT148`	| Discrete Mathematics	| Cryptography, Ergodic Theory, Security    |
 | `MAT167`	| Applied Lin. Algebra	| AI & ML, Data Science                     |
-| `MAT168`	| Optimization			| AI & ML, Data Science                     |
+| `MAT168`	| Optimization		| AI & ML, Data Science                     |
 
 ### Registration ###
 
@@ -269,22 +269,19 @@
 
 	> The intersection of hardware and software is really important. I think that people will always interact with things. So people with the skills to [control the interface between software and hardware] will be in high demand. It’s a broad set of skills, by the way. It’s software engineering, electrical engineering, ergonomics, industrial design, materials, mechanical engineering, batteries. I think there will be even more gadgets in the future that do different kinds of things we haven’t even imagined. Building those things will require this diverse set of skills.
 
-
-
-
 ***CSE Class Differences***
 
 - In comparison to CS majors, CSE majors have required `EEC`, `ENG`, `PHY`, and additional `ECS` classes.
 
-| CLASS		| TITLE					|
+| CLASS		| TITLE			|
 | :----------	| :--------------------	|
 | `ECS140A`	| Programming Languages	|
-| `ECS152`	| Networks				|
+| `ECS152`	| Networks		|
 | `ECS154B`	| Computer Architecture	|
 | `ECS160`	| Software Engineering	|
-| `ECS193A/B`	| Senior Design			|
-| `EEC100`	| Circuits 2				|
-| `EEC172`	| Embedded Systems		|
-| `ENG17`		| Circuits 1				|
-| `PHY9A-C`	| Classical Physics		|
-| `PHY9D`		| Modern Physics			|
+| `ECS193A/B`	| Senior Design		|
+| `EEC100`	| Circuits 2		|
+| `EEC172`	| Embedded Systems	|
+| `ENG17`	| Circuits 1		|
+| `PHY9A-C`	| Classical Physics	|
+| `PHY9D`	| Modern Physics	|
