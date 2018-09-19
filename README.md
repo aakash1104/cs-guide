@@ -17,6 +17,7 @@ labs, and a bunch of other things.
 * [Bryan Ngo](https://bryngo.me)
 * [Henry Le](https://github.com/henrwx)
 * [Sam Lee](http://samchristopherlee.com)
+* [Nausheen Sujela] (http://njavs.github.io)
 
 #### Structure
 
