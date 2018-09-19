@@ -65,16 +65,16 @@ Transferring into UCD CS after 2 or more years at a community college, you may n
 (Warning: some of this advice may be repetitive but I thought a few of the points mentioned above deserved a specific section of their own.) 
 
 1.	**Work on your resume, stat.**
-If you don’t have a resume yet, you need to make one right away. There are plenty of resources online to help out with that. Just google something all the lines of “software engineer resume” or “software engineer intern resume” and you’ll find a bunch of examples you can model yours after.
+    If you don’t have a resume yet, you need to make one right away. There are plenty of resources online to help out with that. Just google something all the lines of “software engineer resume” or “software engineer intern resume” and you’ll find a bunch of examples you can model yours after.
 
 2.	**Set up a website/portfolio.**
-Setting up a simple portfolio website (you can host one site for free if you have a Github account, link to more info here) can get you familiar with basic HTML/CSS/Javascript if you aren’t already and help you “advertise” yourself to potential employers. You can provide a link to this website/portfolio on your resume as well.
+    Setting up a simple portfolio website (you can host one site for free if you have a Github account, link to more info here) can get you familiar with basic HTML/CSS/Javascript if you aren’t already and help you “advertise” yourself to potential employers. You can provide a link to this website/portfolio on your resume as well.
 
-Your website should contain a list of projects you’ve worked on (in the beginning, class projects are fine but over time, it would be helpful to link to things you’ve built outside of class) as well as a link to the code or better yet, a live version of the application (particularly if it’s a web app).
+    Your website should contain a list of projects you’ve worked on (in the beginning, class projects are fine but over time, it would be helpful to link to things you’ve built outside of class) as well as a link to the code or better yet, a live version of the application (particularly if it’s a web app).
 
 3.	**Work on strengthening weak fundamentals and improving your skills.**
-Some transfers feel that they did not develop their fundamentals in basic data structures and algorithms enough during their years at community college. To those transfers, I advise you to start practicing ASAP. During your first quarter, focus on adjusting to classes, but after that, get started with sites like Leetcode. Leetcode problems will force you to confront and work with basic data structures. It might be really difficult when you start, but stick to it and you will get better in time. 
+    Some transfers feel that they did not develop their fundamentals in basic data structures and algorithms enough during their years at community college. To those transfers, I advise you to start practicing ASAP. During your first quarter, focus on adjusting to classes, but after that, get started with sites like Leetcode. Leetcode problems will force you to confront and work with basic data structures. It might be really difficult when you start, but stick to it and you will get better in time. 
 
-Also, start making things: set up a simple portfolio website and/or attend a hackathon or two, if possible. These things won’t help you master data structures and algorithms, but they will expose you to some very basic technologies and give you practice doing things like reading documentation, effectively googling technical problems, and working with APIs. 
+    Also, start making things: set up a simple portfolio website and/or attend a hackathon or two, if possible. These things won’t help you master data structures and algorithms, but they will expose you to some very basic technologies and give you practice doing things like reading documentation, effectively googling technical problems, and working with APIs. 
 
-Additionally, make a Github if you haven’t already! Git is a super important version control tool that you’ll be working with both at Davis and in industry, so it’s best if you familiarize yourself with it ASAP.
+    Additionally, make a Github if you haven’t already! Git is a super important version control tool that you’ll be working with both at Davis and in industry, so it’s best if you familiarize yourself with it ASAP.
