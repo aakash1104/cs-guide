@@ -20,15 +20,14 @@ Transferring into UCD CS after 2 or more years at a community college, you may n
 
     A lot of transfer students decide not to go to the career fair the fall or winter of their first year at Davis, and this is a mistake. Remember: you’re competing with folks that have been at Davis since their freshman year, and have possibly already had the opportunity to intern at one or two places during their undergraduate career. You’ve come into Davis with an already shortened timeline, so don’t waste it.
 
-    **Crafting Your Pitch**
+    **Crafting Your Pitch:**
+    Career fairs are essentially made up of hundreds of booths/tables set up by various companies. You stand in line at the booths you’re interested in and when it’s your turn, you basically have 30 seconds to hand your resume to the recruiter at the booth and pitch yourself. Crafting a decent pitch is therefore crucial to having a successful career fair experience.
+    
+    The ICC sometimes holds workshops to help students craft their pitch. This could be helpful if you have a little anxiety and need to practice saying your pitch aloud to other people or if you need some guidance on what to say in order to sell yourself. (Link to a past event?)
 
-        Career fairs are essentially made up of hundreds of booths/tables set up by various companies. You stand in line at the booths you’re interested in and when it’s your turn, you basically have 30 seconds to hand your resume to the recruiter at the booth and pitch yourself. Crafting a decent pitch is therefore crucial to having a successful career fair experience.
+    Alternatively, writing out your pitch and then practicing with a friend (particularly one that has already experienced a career fair or two) could help.
 
-        The ICC sometimes holds workshops to help students craft their pitch. This could be helpful if you have a little anxiety and need to practice saying your pitch aloud to other people or if you need some guidance on what to say in order to sell yourself. (Link to a past event?)
-
-        Alternatively, writing out your pitch and then practicing with a friend (particularly one that has already experienced a career fair or two) could help.
-
-        Something else that might help is recording yourself practicing your pitch. Replay the video, pinpoint where your delivery needs improvement, and repeat until you’re satisfied.
+    Something else that might help is recording yourself practicing your pitch. Replay the video, pinpoint where your delivery needs improvement, and repeat until you’re satisfied.
 
 2.	**Leetcode and Other Technical Interview Prep Resources**
 
